@@ -32,14 +32,13 @@
     </tr>
     <tr>
       <td>Paullapkin</td>
-      <td>A project built using only JavaScript, HTML, and CSS, focusing on front-end development and UI 
-functionality.</td>
+      <td>A front-end project utilizing JavaScript, HTML, and CSS, emphasizing interactive UI and clean design.</td>
       <td>5+ sales</td>
     </tr>
   </tbody>
 </table>
 
-## 💸 BUSINESS
+## 💸 FOR INQUIRIES, REACH ME AT
 
 👉 minhazesiraz@gmail.com <br/>
 👉 khairulistiyak@gmail.com <br/>

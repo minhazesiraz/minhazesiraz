@@ -50,8 +50,14 @@
 ![Minhaz E Siraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhazesiraz&theme=radical&hide=html&layout=compact)
 
+## GitHub Statistics
+
+<!-- GitHub Readme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="Minhaz E Siraz's GitHub Stats" width="500" height="200" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazesiraz&theme=radical&hide=html&layout=compact" alt="Top Languages" width="500" height="200" />
+
+
 <!-- Total Contributions -->
 ![Total Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=minhazesiraz&theme=radical)
-
-<!-- GitHub Profile Trophy -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=minhazesiraz&theme=onedark)

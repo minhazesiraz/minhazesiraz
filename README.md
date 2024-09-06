@@ -40,6 +40,18 @@
 
 🤝 **BUSINESS**
 
-- minhazesiraz@gmail.com <br/>
-- khairulistiyak@gmail.com <br/>
-- contact@minhazesiraz.com
+👉 minhazesiraz@gmail.com <br/>
+👉 khairulistiyak@gmail.com <br/>
+👉 contact@minhazesiraz.com
+
+## GitHub Statistics
+
+<!-- GitHub Readme Stats -->
+![Minhaz E Siraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhazesiraz&theme=radical&hide=html&layout=compact)
+
+<!-- Total Contributions -->
+![Total Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=minhazesiraz&theme=radical)
+
+<!-- GitHub Profile Trophy -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=minhazesiraz&theme=onedark)

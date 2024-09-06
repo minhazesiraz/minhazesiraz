@@ -19,3 +19,6 @@
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+
+<img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F" width="150"> <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc" width="150">
+

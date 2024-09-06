@@ -32,7 +32,8 @@
     </tr>
     <tr>
       <td>Paullapkin</td>
-      <td>An advanced project demonstrating key web development skills.</td>
+      <td>A project built using only JavaScript, HTML, and CSS, focusing on front-end development and UI 
+functionality.</td>
       <td>5+ sales</td>
     </tr>
   </tbody>

@@ -53,3 +53,10 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazesiraz&theme=radical&hide=html&layout=compact" alt="Top Languages" width="500"/>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" /></p>

@@ -11,7 +11,7 @@
 
 ## 🛠️ MY PROJECTS & VENTURES
 
-<table>
+<!-- <table>
   <thead align="center">
     <tr border: none;>
       <td><b>Projects</b></td>
@@ -37,6 +37,53 @@ functionality.</td>
       <td>5+ sales</td>
     </tr>
   </tbody>
+</table> -->
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Responses</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
+      <td>Programming related Learning Platform for Bangladesh</td>
+      <td>200K+ active learners</td>
+    </tr>
+    <tr>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
+      <td>Visual Studio Code Editor Theme</td>
+      <td>84K+ installs</td>
+    </tr>
+    <tr>
+      <td>Listenyzen</td>
+      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
+      <td>65+ clients</td>
+    </tr>
+    <tr>
+      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
+      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
+      <td>120+ clients</td>
+    </tr>
+    <tr>
+      <td>Prism</td>
+      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
+      <td>2.5k+ Distributors Nationwide</td>
+    </tr>
+    <tr>
+      <td>Unilever MARS</td>
+      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
+      <td>20 million+ Consumer Data Managed Already</td>
+    </tr>
+    <tr>
+      <td>Microzen</td>
+      <td>Microcredit Automation System with AI based Decision Support System</td>
+      <td>10 million+ Consumer Financial Data Managed Already</td>
+    </tr>
+  </tbody>
 </table>
 
 ## 💸 BUSINESS
@@ -52,8 +99,8 @@ functionality.</td>
   <img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" width="500" /> <br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" /> <br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" /> <br/> -->
   
   <!-- Total Contributions -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="500" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="500" /> -->
 </div>

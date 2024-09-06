@@ -54,10 +54,10 @@
 
 <p align="center">
 <!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="Minhaz E Siraz's GitHub Stats" width="350" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="Minhaz E Siraz's GitHub Stats" width="350"/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazesiraz&theme=radical&hide=html&layout=compact" alt="Top Languages" width="350" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazesiraz&theme=radical&hide=html&layout=compact" alt="Top Languages" width="350"/>
 </p>
 
 

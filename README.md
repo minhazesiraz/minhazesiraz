@@ -50,10 +50,10 @@
 <!-- GitHub Readme Stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="Minhaz E Siraz's GitHub Stats" width="500"/> <br/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" height="200" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" height="200" />
 
 <!-- Top Languages -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazesiraz&theme=radical&hide=html&layout=compact" alt="Top Languages" width="500"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" height="200" width="500" />
+<img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" width="500" height="200" />
 </p>

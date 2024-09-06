@@ -47,11 +47,12 @@
 ## ⤴︎ GITHUB STATISTICS
 
 <p align="center">
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" /> <br/>
-
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" width="500" /> <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" width="500" /> <br/>
+
+<!-- GitHub Readme Stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" /> <br/>
+
 
 <!-- Total contributes -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="500" />

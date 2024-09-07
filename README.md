@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>Paullapkin</td>
-      <td>A front-end project utilizing JavaScript, HTML, and CSS, emphasizing interactive UI and clean design.</td>
+      <td>A front-end project utilizing JavaScript, HTML, and CSS, emphasizing <br/> interactive UI and clean design.</td>
       <td>5+ sales</td>
     </tr>
   </tbody>

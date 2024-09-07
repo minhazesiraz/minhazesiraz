@@ -22,7 +22,7 @@
   <tbody>
     <tr>
       <td><a href="https://minhazesiraz.com" target="_blank">Minhaz E Siraz</a></td>
-      <td>A Collection of Projects: Creativity Meets Code</td>
+      <td>A Collection of Projects - Creativity Meets Code</td>
       <td>5+ active clients</td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>Paullapkin</td>
-      <td>A front-end project built with JavaScript, HTML, and CSS, featuring a clean, <br/> responsive design and interactive user interface.</td>
+      <td>A front-end project built with JavaScript, HTML, and CSS, featuring a clean, responsive design and interactive user interface.</td>
       <td>10+ sales</td>
     </tr>
   </tbody>

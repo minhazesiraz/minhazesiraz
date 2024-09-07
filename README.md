@@ -48,7 +48,7 @@
 
 <div>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" width="100vw" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" width="100%" /> <br/>
 
   <!-- Top Languages -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" /> <br/> -->

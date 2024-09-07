@@ -11,7 +11,7 @@
 
 ## 🛠️ My Project's and Venture's
 
-<table>
+<table width="100%">
   <thead align="center">
     <tr border: none;>
       <td><b>Projects</b></td>

@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minhazesiraz&show_icons=true&locale=en" alt="minhazesiraz" width="100%" /> <br/>
 
   <!-- Top Languages -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" /> <br/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="500" /> <br/>
   
   <!-- Total Contributions -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="500" /> -->

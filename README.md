@@ -28,7 +28,7 @@
     <tr>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=MinhazESiraz.symbols-of-vscode" target="_blank">Symbols of VSCode</a></td>
       <td>Visual Studio Code Editor Theme</td>
-      <td>70+ installs</td>
+      <td>100+ installs</td>
     </tr>
     <tr>
       <td>Paullapkin</td>

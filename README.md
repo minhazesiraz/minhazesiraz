@@ -41,7 +41,7 @@
 ## ❓ For inquiries, reach me at
 
 👉 minhazesiraz@gmail.com <br/>
-👉 contact@minhazesiraz.com
+👉 khairulistiyak@gmail.com
 
 ## ➦ GitHub Statistics
 

@@ -28,7 +28,7 @@
     <tr>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=MinhazESiraz.symbols-of-vscode" target="_blank">Symbols of VSCode</a></td>
       <td>Visual Studio Code Editor Theme</td>
-      <td>100+ installs</td>
+      <td>150+ installs</td>
     </tr>
     <tr>
       <td>Paullapkin</td>
@@ -53,5 +53,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="100%" /> <br/>
   
   <!-- Total Contributions -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="500" /> -->
-</div>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="100%" /> -->
+ </div>

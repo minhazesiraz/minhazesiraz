@@ -41,7 +41,7 @@
 ## ❓ For inquiries, reach me at
 
 👉 minhazesiraz@gmail.com <br/>
-👉 khairulistiyak@gmail.com
+👉 businessgrowthchart@gmail.com
 
 ## ➦ GitHub Statistics
 

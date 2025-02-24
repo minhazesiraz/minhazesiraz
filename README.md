@@ -23,7 +23,7 @@
     <tr>
       <td><a href="https://minhazesiraz.com" target="_blank">Minhaz E Siraz</a></td>
       <td>A Collection of Projects - Creativity Meets Code</td>
-      <td>5+ active clients</td>
+      <td>10+ active clients</td>
     </tr>
     <tr>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=MinhazESiraz.symbols-of-vscode" target="_blank">Symbols of VSCode</a></td>

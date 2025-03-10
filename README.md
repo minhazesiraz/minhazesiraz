@@ -11,6 +11,9 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhazesiraz@gmail.com) 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801736111145) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/minhazesiraz) 
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#) 
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#) 
+[![IMO Badge](https://img.shields.io/badge/IMO-0078FF?style=for-the-badge&logo=imo&logoColor=white)](#) 
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-166AB8?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/minhazesiraz) 
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0006-9883-3714)
 

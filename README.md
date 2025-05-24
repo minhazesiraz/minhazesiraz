@@ -83,5 +83,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazesiraz&show_icons=true&locale=en&layout=compact" alt="minhazesiraz" width="100%" /> <br/>
   
   <!-- Total Contributions -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="100%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazesiraz&" alt="minhazesiraz" width="100%" />
  </div>
